@@ -1,1 +1,1 @@
-print("Heelo kiddo")
+print("Heelo")
